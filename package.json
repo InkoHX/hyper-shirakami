@@ -1,0 +1,28 @@
+{
+  "name": "hyper-shirakami",
+  "version": "1.0.0",
+  "description": "Hyper Theme",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InkoHX/hyper-shirakami.git"
+  },
+  "keywords": [
+    "hyper"
+  ],
+  "author": "InkoHX <inkohx@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/InkoHX/hyper-shirakami/issues"
+  },
+  "homepage": "https://github.com/InkoHX/hyper-shirakami#readme",
+  "devDependencies": {
+    "@inkohx/eslint-config-codestyle": "^1.1.4",
+    "@typescript-eslint/eslint-plugin": "^2.10.0",
+    "@typescript-eslint/parser": "^2.10.0",
+    "eslint": "^6.7.2"
+  }
+}
