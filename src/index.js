@@ -6,7 +6,7 @@ exports.decorateConfig = (config) => {
         background: #1e90ff;
       }
       .header_appTitle {
-        color: black
+        color: black;
       }
       .header_windowControls {
         background: linear-gradient(
@@ -22,16 +22,16 @@ exports.decorateConfig = (config) => {
       }
       .terms_terms:before {
         content: "";
-        position: absolute;
-        display: block;
         z-index: 1;
-        width: 100%;
+        display: block;
         height: 100%;
+        width: 100%;
+        opacity: 0.3;
+        position: absolute;
         background-size: auto 100%;
         background-repeat: no-repeat;
-        background-position: center bottom;
+        background-position: center;
         background-image: url(https://i.imgur.com/I1yE1J5.png);
-        opacity: 0.3;
       }
       .xterm .xterm-viewport {
         background-color: rgba(0,0,0,0) !impotant;
