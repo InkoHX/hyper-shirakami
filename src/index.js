@@ -41,7 +41,7 @@ exports.decorateConfig = (config) => {
     selectionColor: '#000',
     backgroundColor: '#82a0a0',
     foregroundColor: '#fff',
-    cursorColor: '#fff',
+    cursorColor: '#777',
     colors: {
       black: '#000000',
       red: '#C51E14',
