@@ -4,14 +4,16 @@
   "description": "Hyper Theme",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/InkoHX/hyper-shirakami.git"
   },
   "keywords": [
-    "hyper"
+    "hyper",
+    "hyper-plugin"
   ],
   "author": "InkoHX <inkohx@gmail.com>",
   "license": "MIT",

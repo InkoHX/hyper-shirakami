@@ -1,2 +1,9 @@
 # hyper-shirakami
-Shirakami Fubuki style - Hyper Theme
+
+Shirakami Fubuki - Hyper Theme
+
+## Install
+
+```bash
+hyper install hyper-shirakami
+```
