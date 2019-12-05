@@ -23,8 +23,6 @@
   "homepage": "https://github.com/InkoHX/hyper-shirakami#readme",
   "devDependencies": {
     "@inkohx/eslint-config-codestyle": "^1.1.4",
-    "@typescript-eslint/eslint-plugin": "^2.10.0",
-    "@typescript-eslint/parser": "^2.10.0",
     "eslint": "^6.7.2"
   }
 }
