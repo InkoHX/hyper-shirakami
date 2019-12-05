@@ -1,10 +1,6 @@
 name: CI
 
-on:
-  push:
-    paths: 
-      - 'src'
-      - '.github/workflows'
+on: [push]
 
 jobs:
   lint:
