@@ -41,5 +41,23 @@ exports.decorateConfig = (config) => {
     selectionColor: '#000',
     backgroundColor: '#82a0a0',
     foregroundColor: '#fff',
-    cursorColor: '#fff' }
+    cursorColor: '#fff',
+    colors: {
+      black: '#000000',
+      red: '#C51E14',
+      green: '#0f8a2b',
+      yellow: '#e0dc36',
+      blue: '#0A2FC4',
+      magenta: '#C839C5',
+      cyan: '#00d6d6',
+      white: '#C7C7C7',
+      lightBlack: '#686868',
+      lightRed: '#FD6F6B',
+      lightGreen: '#67F86F',
+      lightYellow: '#FFFA72',
+      lightBlue: '#6A76FB',
+      lightMagenta: '#FD7CFC',
+      lightCyan: '#68FDFE',
+      lightWhite: '#FFFFFF'
+    } }
 }
